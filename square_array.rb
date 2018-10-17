@@ -7,3 +7,4 @@ def square_array(array)
   end
   return answer
 end
+end
