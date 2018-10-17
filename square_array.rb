@@ -3,5 +3,7 @@ array = [1, 2, 3]
 
 def square_array(array)
   array.each do | i |
-    return i**
+    answer = i**
+  end
+  return answer
 end
