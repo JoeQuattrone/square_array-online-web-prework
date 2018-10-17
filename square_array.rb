@@ -6,5 +6,5 @@ def square_array(array)
   array.each do | i |
     answer = i**2
   end
-  return answer
+  return new_array.push(answer)
 end
